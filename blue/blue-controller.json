@@ -22,7 +22,7 @@
             "containers":[
                {
                   "name":"blue",
-                  "image":"andresaaap/testblueimage",
+                  "image":"elmokdad/udacity",
                   "ports":[
                      {
                         "name":"http-server",
